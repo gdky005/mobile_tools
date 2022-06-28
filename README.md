@@ -1,16 +1,5 @@
 # macflutter
 
-A new Flutter project.
+移动同步助手(mobile_tools)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+剪切板同步工具，  在 mac 或者 Windows 上复制内容， 然后在手机上 可以同步到内容。同理，反证亦可。  有 mac 的工具和 Android/ios 是安装包。
